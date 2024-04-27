@@ -1,4 +1,4 @@
-```
+
 # Classification-Trees-Heart-Disease
 A Jupyter notebook demonstrating the use of classification trees to predict heart disease from clinical data. Based on the UCI Machine Learning Repository dataset, this project applies machine learning techniques for insightful data analysis and predictive modeling.
 
@@ -66,5 +66,3 @@ Execute the notebook cells sequentially to understand the workflow and the decis
 
 ## Contributing
 Contributions to improve the notebook or extend the analysis are welcome. Please fork the repository and submit a pull request with your changes.
-
-```
